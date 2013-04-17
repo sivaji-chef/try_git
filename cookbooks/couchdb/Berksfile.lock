@@ -1,0 +1,5 @@
+cookbook 'couchdb', :path => '/Users/jtimberman/Development/opscode/cookbooks/couchdb'
+cookbook 'build-essential', :locked_version => '1.2.0'
+cookbook 'apt', :locked_version => '1.8.4'
+cookbook 'yum', :locked_version => '2.0.0'
+cookbook 'erlang', :locked_version => '1.1.2'

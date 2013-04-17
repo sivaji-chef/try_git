@@ -1,0 +1,2 @@
+cookbook 'cookbook-elasticsearch', :path => '/Users/karmi/Playground/ElasticSearch/Varia/cookbook-elasticsearch'
+cookbook 'ark', :locked_version => '0.0.11'
